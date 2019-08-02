@@ -1,5 +1,5 @@
 (ns euler.problem7
-   (:use [euler.common :only [lazy-primes]]))
+   (:require [euler.common :refer [lazy-primes]]))
 
 ;; Problem 7 
 ;;

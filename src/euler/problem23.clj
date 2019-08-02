@@ -1,5 +1,5 @@
 (ns euler.problem23
-  (:use [euler.common :only [abundant-number?])
+  (:require [euler.common :refer [abundant-number?])
 
 ;; problem-23
 

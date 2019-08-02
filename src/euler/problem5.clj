@@ -1,5 +1,5 @@
 (ns euler.problem5
-  (:use [euler.common :only [lcm]]))
+  (:require [euler.common :refer [lcm]]))
 
 ;; Problem 5
 ;;

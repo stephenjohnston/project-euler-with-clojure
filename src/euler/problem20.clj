@@ -1,5 +1,5 @@
 (ns euler.problem20 
-  (:use [euler.common :only [factorial]]))
+  (:require [euler.common :refer [factorial]]))
 
 ;; problem-20
 

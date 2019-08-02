@@ -1,5 +1,5 @@
 (ns euler.problem2
-  (:use [euler.common :only [fib-lazy]]))
+  (:require [euler.common :refer [fib-lazy]]))
 
 ;;
 ;; Problem 2

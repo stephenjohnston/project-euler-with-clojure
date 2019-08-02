@@ -1,5 +1,5 @@
 (ns euler.problem6
-   (:use [euler.common :only [square]]))
+   (:require [euler.common :refer [square]]))
 
 ;; Problem 6
 ;;

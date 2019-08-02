@@ -1,5 +1,5 @@
 (ns euler.problem21
-  (:use [euler.common :only [is-amicable?]]))
+  (:require [euler.common :refer [is-amicable?]]))
 
 ;; problem-21
 (defn problem-20 []

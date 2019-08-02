@@ -1,5 +1,5 @@
 (ns euler.problem16
-   (:use [euler.common :only [char->int]]))
+   (:require [euler.common :refer [char->int]]))
 
 ;; problem-16
 (defn problem-16 []
